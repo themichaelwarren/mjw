@@ -14,11 +14,11 @@ After 19 years in Minnesota, I spent the first half of my 20s in California. I g
 
 I currently split my time between Tokyo and Aomori.
 
-    * [Queen & Co.](https://www.queenand.co/) co-founder
-    * [Long Now](http://longnow.org/) member #3602
-    * DJ / Song selector and maker of mixes
-    * Music man in a handful of bands
-    * Snapping away on [Instagram](https://instagram.com/themichaelwarren)
+*[Queen & Co.](https://www.queenand.co/) co-founder
+*[Long Now](http://longnow.org/) member #3602
+*DJ / Song selector and maker of mixes
+*Music man in a handful of bands
+*Snapping away on [Instagram](https://instagram.com/themichaelwarren)
 
 -----|-------|--------
 1984–2004 | Minnesota
