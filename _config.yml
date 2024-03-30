@@ -1,6 +1,6 @@
 title: Michael Warren
 url: "https://themichaelwarren.com"
-baseurl: "/researcher"
+baseurl: "/mjw"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/themichaelwarren"
 footer_text: "themichaelwarren.com"
 
 sass:
