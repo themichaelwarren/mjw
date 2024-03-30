@@ -1,4 +1,4 @@
-title: Michael Warren
+title: (the) Michael Warren
 url: "https://themichaelwarren.com"
 baseurl: "/mjw"
 
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/mjw/"
+ - name: "Music"
+   link: "/mjw/music"
  - name: "Contact"
    link: "contact"
