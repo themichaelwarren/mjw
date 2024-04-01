@@ -1,9 +1,9 @@
 ---
 layout: song
 title: Oddball Rising
-picture: images/songs/oddball-rising.jpg
+picture: /images/songs/oddball-rising.jpg
 ---
-{% include embed-audio.html src="assets/audio/2023-01-28 Oddball Rising v3.mp3" %}
+{% include embed-audio.html src="/assets/audio/2023-01-28 Oddball Rising v3.mp3" %}
 
 ````
 ODDBALL RISING

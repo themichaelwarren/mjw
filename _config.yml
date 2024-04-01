@@ -1,6 +1,5 @@
 title: (the) Michael Warren
-url: "https://themichaelwarren.github.io"
-baseurl: "/mjw/"
+url: "https://themichaelwarren.github.io/mjw"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
