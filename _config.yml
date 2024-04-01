@@ -22,3 +22,7 @@ nav:
    link: "/mjw/music"
  - name: "Contact"
    link: "contact"
+
+collections:
+  songs:
+    output: true
