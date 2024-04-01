@@ -82,9 +82,6 @@
             <div class="container content contact">
         {% else %}
             <div class="container content">
-            <div>
-                {% include accordion.html %}
-            </div>
         {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
@@ -93,6 +90,9 @@
                     <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
                     </p>
                 {% endif %}
+            </div>
+            <div>
+                {% include accordion.html %}
             </div>
     </div>
 
