@@ -12,7 +12,7 @@ ruby RUBY_VERSION
 # gem "jekyll", "3.1.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima"
+gem "minimal-mistakes-jekyll"
 gem "webrick"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -20,6 +20,7 @@ gem "webrick"
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
+gem "jekyll-include-cache", group: :jekyll_plugins
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
